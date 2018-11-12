@@ -10,8 +10,9 @@
     height:100%;
     margin: 0 auto;
     overflow: hidden;
-    background-image: url("flex-and-grid/img/bgcmatrix.png");
+    background-image: url(".../img/bgcmatrix.png");
     background-size: cover;
+    background-color:black;
 }
 
 .wrapper {
